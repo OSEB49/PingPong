@@ -1,1 +1,1 @@
-# First game based on SFML engine
+#  The first game based on SFML engine
